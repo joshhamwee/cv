@@ -1,3 +1,5 @@
+![Thumbnail of minimal](thumbnail.png)
+
 # Josh Hamwee
 
 I am currentyly studying Computer Science student at the University of Bristol, graduating in June 2020. My areas of interest are software development, security and the financial markets. This year I will be taking modules in Machine Learning, AI, Cryptography and Web Development. I am passionate about working, so once I set my mind to something I won't stop until I have acheived it. 
@@ -18,18 +20,18 @@ I am currentyly studying Computer Science student at the University of Bristol, 
 
 # Experience
 
-## Intern, [Reliance acsn]()
+## Intern, [Reliance acsn](https://relianceacsn.co.uk/)
 ### London, June 2019
 
 During my second year I was part of a larger intern team. We were tasked with setting up a virtual lab environment to test our Red Team skills on. This broadened my networking knowledge as I now understand how a Windows Server and Active Directory works. We were also given talks on different departments of the company to broaden our knowledge of the industry.
 
-## Intern, [Crowdform]()
+## Intern, [Crowdform](https://www.crowdform.co.uk/)
 ### London, September 2018
 
 Having never had any experience with JavaScript, I was given a course to do so that I could increase my expertise in the web development area.
 My previous knowledge of HTML/CSS and Databases were extremely useful when I came on to the more hands on work, such as gaining an understanding of Node.js and React.js and applying it to real world applications.
 
-## Intern, [Reliance acsn]()
+## Intern, [Reliance acsn](https://relianceacsn.co.uk/)
 ### London, June 2018
 
 Working under the arm of the penetration testing team for my first stint at Reliance taught me a lot of the fundamentals of this line of work. For the majority of the time I was shadowing the team taking notes on how pentesting is carried out and the different aspects of the job. Towards the end of my time I was set a project in which I compiled my own report on a lab machine - which taught me to use programs such as ncat, metasploit and increased my python scripting skills.
