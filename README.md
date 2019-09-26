@@ -1,5 +1,3 @@
-![Thumbnail of minimal](thumbnail.png)
-
 # Josh Hamwee
 
 I am currentyly studying Computer Science student at the University of Bristol, graduating in June 2020. My areas of interest are software development, security and the financial markets. This year I will be taking modules in Machine Learning, AI, Cryptography and Web Development. I am passionate about working, so once I set my mind to something I won't stop until I have acheived it. 
