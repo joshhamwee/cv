@@ -1,4 +1,6 @@
-logo: [thumbnail.png]
+---
+layout: default
+---
 
 # Josh Hamwee
 
