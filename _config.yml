@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
-title: ["Josh Hamwee's CV"]
+title: Josh Hamwee's CV
+logo: assets/thumbnail.png
 
-logo: ["thumbnail.png"]
+theme: jekyll-theme-minimal
